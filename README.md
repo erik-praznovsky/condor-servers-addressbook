@@ -4,14 +4,15 @@ Soaring simulator Condor2 online servers stored in *Addressbook.ini*, for simply
 
 ## Installation & usage / Instalace a použití
 
-Download package ZIP file, open desired language folder and extract *AddressBook.ini*. Then copy this extracted file into folder *%UserProfile%\Documents\Condor\Pilots\YourName* (backup your previous AddressBook.ini if you wanna). Run Condor2, hit *Multiplayer* and select server in Address Book listing you want to connect.
+Download package ZIP file, open desired language folder and extract *AddressBook.ini*. Then copy this extracted file into folder *%UserProfile%\Documents\Condor\Pilots\YourName* (backup your previous *AddressBook.ini* file if you wanna).\
+Run Condor2 simulator, hit *Multiplayer* and select server in Address Book listing you want to connect.
 
 ```bash
 %UserProfile%\Documents\Condor\Pilots
 ```
 
 ## Racing calendar / Závodní kalendář
-Our racing calendar: https://virtualsoaring.eu/calendar?lang=en \
+Our racing calendar: https://virtualsoaring.eu/calendar?lang=en  
 Náš závodní kalendář: https://virtualsoaring.eu/calendar?lang=sk
 
 ## License
