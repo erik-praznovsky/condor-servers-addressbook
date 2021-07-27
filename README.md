@@ -2,7 +2,7 @@
 
 Condor2 simulator servers addressbook.ini, for simply and fast connect to our online races.
 
-## Usage
+## Usage/Installation
 
 Condor2 servers addressbook, for simply and fast connect to our online races.
 
@@ -10,8 +10,8 @@ Condor2 servers addressbook, for simply and fast connect to our online races.
 %UserProfile%\Documents\Condor\Pilots
 ```
 
-## Contributing
-Full racing calendar: https://virtualsoaring.eu/calendar
+## Racing Calendar
+Our full racing calendar: https://virtualsoaring.eu/calendar
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
