@@ -1,6 +1,8 @@
 ## Condor Servers Addressbook
 
-Soaring simulator Condor2 online servers stored in *Addressbook.ini*, for simply and fast connect to our online races organized by Virtualsoaring.eu and friends. Items starting with day name shortcut, then server name. Some races can require password for connect.
+Soaring simulator Condor2 online servers stored in *Addressbook.ini*, for simply and fast connect to our online races organized by Virtualsoaring.eu and our friends. Items starting with day name shortcut, then server name. Some races can require password for connect.
+
+Servery simulátoru Condor2 uložené v *Addressbook.ini* pro snadné a rychlé připojení k našim online závodům pořádaným Virtualsoaring.eu a našimi přáteli. Položky začínají zkratkou názvu dne, poté názvem serveru. Některé závody mohou vyžadovat heslo pro připojení.
 
 ---
 
