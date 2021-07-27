@@ -7,7 +7,7 @@ Condor2 simulator servers addressbook.ini, for simply and fast connect to our on
 Condor2 servers addressbook, for simply and fast connect to our online races.
 
 ```bash
-pip install foobar
+%UserProfile%\Documents\Condor\Pilots
 ```
 
 ## Contributing
