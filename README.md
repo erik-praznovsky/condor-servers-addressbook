@@ -1,7 +1,7 @@
 ## Condor Servers Addressbook
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Website shields.io](https://img.shields.io/badge/Website-virtualsoaring.eu-green)](https://virtualsoaring.eu/)
+[![Website virtualsoaring.eu](https://img.shields.io/badge/Website-virtualsoaring.eu-blue.svg)](https://virtualsoaring.eu/)
+[![MIT license](https://img.shields.io/badge/License-MIT-orange.svg)](https://choosealicense.com/licenses/mit/)
 
 Soaring simulator Condor2 online servers stored in *Addressbook.ini*, for simply and fast connect to our online races organized by Virtualsoaring.eu and our friends. Items starting with day name shortcut, then server name. Some races can require password for connect.
 
