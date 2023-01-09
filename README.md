@@ -3,9 +3,9 @@
 [![Website virtualsoaring.eu](https://img.shields.io/badge/Website-virtualsoaring.eu-blue.svg)](https://virtualsoaring.eu/)
 [![MIT license](https://img.shields.io/badge/License-MIT-orange.svg)](https://choosealicense.com/licenses/mit/)
 
-Soaring simulator Condor2 online servers stored in *Addressbook.ini*, for simply and fast connect to our online races organized by Virtualsoaring.eu and our friends. Items starting with day name shortcut, then server name. Some races can require password for connect.
+Soaring simulator Condor 2 online servers stored in *Addressbook.ini*, for simply and fast connect to our online races organized by Virtualsoaring.eu and our friends. Items starting with day name shortcut, then server name. Some races can require password for connect.
 
-Servery simulátoru Condor2 uložené v *Addressbook.ini* pro snadné a rychlé připojení k našim online závodům Virtualsoaring.eu a našich přátel. Položky začínají zkratkou názvu dne, poté názvem serveru. Některé závody mohou vyžadovat heslo pro připojení.
+Servery simulátoru Condor 2 uložené v *Addressbook.ini* pro snadné a rychlé připojení k našim online závodům Virtualsoaring.eu a našich přátel. Položky začínají zkratkou názvu dne, poté názvem serveru. Některé závody mohou vyžadovat heslo pro připojení.
 
 ---
 
@@ -15,7 +15,7 @@ Download and open package [ZIP file](https://github.com/erik-praznovsky/condor-s
 
 Stáhněte a otevřete [ZIP soubor](https://github.com/erik-praznovsky/condor-servers-addressbook/archive/refs/heads/main.zip), vyberte jazykovou složku a rozbalte z ní soubor *AddressBook.ini*. Poté zkopírujte tento rozbalený soubor *AddressBook.ini* do složky *%UserProfile%\Documents\Condor\Pilots\YourName* (pokud chcete, zálohujte svůj předchozí soubor *AddressBook.ini*). Spusťte simulátor Condor2, stiskněte *Multiplayer* a vyberte server v seznamu adresáře, ke kterému se chcete připojit.
 <br><br>
-> **Pilots for Condor2 - folder path / Piloti v Condor2 - cesta ke složce:**
+> **Pilots for Condor 2 - folder path / Piloti v Condor 2 - cesta ke složce:**
 ```bash
 %UserProfile%\Documents\Condor\Pilots
 ```
