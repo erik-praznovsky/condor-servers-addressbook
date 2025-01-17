@@ -19,6 +19,10 @@ Stáhněte a otevřete [ZIP soubor](https://github.com/erik-praznovsky/condor-se
 ```bash
 %UserProfile%\Documents\Condor\Pilots
 ```
+> **Pilots for Condor 3 - folder path / Piloti v Condor 2 - cesta ke složce:**
+```bash
+%UserProfile%\Documents\Condor3\Pilots
+```
 
 ---
 
