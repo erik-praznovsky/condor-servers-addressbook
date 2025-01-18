@@ -1,4 +1,4 @@
-## Condor Servers Addressbook
+## VirtualSoaring Condor Servers Addressbook
 
 [![Website virtualsoaring.eu](https://img.shields.io/badge/Website-virtualsoaring.eu-mediumblue.svg)](https://virtualsoaring.eu/)&ensp;
 [![MIT license](https://img.shields.io/badge/License-MIT-darkolivegreen.svg)](https://choosealicense.com/licenses/mit/)&ensp;
